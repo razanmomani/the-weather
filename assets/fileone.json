@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 35.945,
+    "lat": 31.9552
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 285.9,
+    "feels_like": 284.98,
+    "temp_min": 285.9,
+    "temp_max": 285.9,
+    "pressure": 1021,
+    "humidity": 67,
+    "sea_level": 1021,
+    "grnd_level": 933
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.84,
+    "deg": 109,
+    "gust": 12.82
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1703629294,
+  "sys": {
+    "type": 1,
+    "id": 7523,
+    "country": "JO",
+    "sunrise": 1703651698,
+    "sunset": 1703687932
+  },
+  "timezone": 10800,
+  "id": 250441,
+  "name": "Amman",
+  "cod": 200
+}
